@@ -1,0 +1,1 @@
+[Mon Apr 07 18:37:59.481975 2025] [core:error] [pid 3490936] [client 10.30.8.5:34012] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://xpucage-m5.wsr.ru/
