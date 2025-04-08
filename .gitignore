@@ -3,3 +3,4 @@ composer.lock
 access.log
 error.log
 config/db.php
+vendor
